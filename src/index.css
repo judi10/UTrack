@@ -1,0 +1,3 @@
+/* Reset minimal - le style complet du tableau de bord est dans App.css */
+* { box-sizing: border-box; }
+body { margin: 0; }
